@@ -1,9 +1,9 @@
 <p align='center'><img width='300' src="./.github/logo.svg"/></p>
 <h1 align='center'>App ToDo - Java + Spring</h1>
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/rafaasimi/rocketseat-ignite-react2022?color=77BC1F">
-<img src="https://img.shields.io/github/languages/count/rafaasimi/rocketseat-ignite-react2022?color=77BC1F">
-<img src="https://img.shields.io/github/last-commit/rafaasimi/rocketseat-ignite-react2022?color=77BC1F">
+<img src="https://img.shields.io/github/repo-size/rafaasimi/todolist-springboot-rocketseat?color=77BC1F">
+<img src="https://img.shields.io/github/languages/count/rafaasimi/todolist-springboot-rocketseat?color=77BC1F">
+<img src="https://img.shields.io/github/last-commit/rafaasimi/todolist-springboot-rocketseat?color=77BC1F">
 </p>
 
 ## 🔖 Descrição
