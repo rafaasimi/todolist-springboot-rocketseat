@@ -97,8 +97,8 @@ Body JSON
 
 ```json
 {
-    "title": "Ir ao supermercado - Alterado",
-    "description": "Comprar refrigerante, leite e frutas. - Alteradp"
+    "title": "Ir ao supermercado após o trabalho",
+    "description": "Comprar suco e pão."
 }
 ```
 
